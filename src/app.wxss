@@ -1,3 +1,7 @@
+:root {
+  --var-a: 200rpx;
+}
+
 /**app.wxss**/
 .container {
   height: 100%;
@@ -5,6 +9,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  padding: 200rpx 0;
+  padding: var(--var-a) 0;
   box-sizing: border-box;
-} 
+}

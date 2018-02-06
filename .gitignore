@@ -1,3 +1,5 @@
+# Custom
+dist/
 
 # Created by https://www.gitignore.io/api/node,windows,visualstudiocode
 
@@ -93,5 +95,3 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/node,windows,visualstudiocode
-
-dist/
